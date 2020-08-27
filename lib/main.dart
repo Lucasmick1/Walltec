@@ -2,10 +2,10 @@ import 'package:Walltec/screens/transfer/list.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(Walletc());
+  runApp(Walltec());
 }
 
-class Walletc extends StatelessWidget {
+class Walltec extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

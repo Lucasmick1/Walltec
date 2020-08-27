@@ -33,7 +33,7 @@ class ListTransferState extends State<ListTransfer> {
                     },
                     icon: ClipOval(
                       child: Image.network(
-                        'https://scontent.fgru14-1.fna.fbcdn.net/v/t1.0-9/p960x960/96801175_3097282153656312_942186571996594176_o.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=dSPXdSz4A0EAX9UPY0Y&_nc_ht=scontent.fgru14-1.fna&tp=6&oh=e608afa8715a611a3db18ecbb6ea014d&oe=5F6BF6C7',
+                        'url-of-image',
                         fit: BoxFit.fill,
                       ),
                     ),
